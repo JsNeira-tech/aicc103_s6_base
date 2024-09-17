@@ -1,5 +1,5 @@
 % Programa ejercicio identificar nacionalidad.
-
+% Comentario
 % Se identifica con 3 a 4 características.
 
 :- dynamic relacion/3, relacion/4.
